@@ -1,0 +1,1 @@
+[{"id":"9dd65f62.9519e","type":"rpi-gpio in","z":"ed457e98.15dc2","name":"Button","pin":"7","intype":"up","debounce":"25","read":true,"x":90,"y":220,"wires":[["4dfb0807.8c74c8","8b7699e8.a1a638"]]}]
